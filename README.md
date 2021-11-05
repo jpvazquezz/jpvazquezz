@@ -21,6 +21,6 @@ Tools and softwares:
 # Data Science Projects
 ## Churn Prediction Probability - TopBank
 ![](https://www.milldesk.com.br/wp-content/uploads/2019/09/customer-churn-milldesk-1024x513.jpeg)
-I was able to create a XGBoost model that predicted the TopBank customers' probability to churn and also formulate a action plan to tackle the churning problem based on giving customers a gift card in accordance to their churn probability and the maximization of customers' ROI. In addition to the financial return, the model was created using Dash and deployed in production with Heroku.
+In this [project](https://github.com/jpvazquezz/churn-prediction-topbank), I created a XGBoost model that predicted the TopBank customers' probability to churn and also formulate a action plan to tackle the churning problem based on giving customers a gift card in accordance to their churn probability and the maximization of customers' ROI. In addition to the financial return, the model was created using Dash and deployed in production with Heroku.
 
-To check out the app, click [here](https://churn-prediction-topbank.herokuapp.com/).
+The model had a 0.905 F1-Score and can display how much revenue TopBank could save avoiding churn with gift cards, depending on the budget designated by the user. To check out the app, click [here](https://churn-prediction-topbank.herokuapp.com/).
