@@ -5,7 +5,7 @@ Here you will be able to check out some of my data science projects!
 The projects' main goal is to demonstrate my habilities to solve real business problems with Data Science.
 
 # Data Science Skills
-I'm aspiring data scientist who has been practicing data science skills since early 2020. My main focus is to create end-to-end data solutions for business problems through collecting, processing, analysing data and through implementing machine learning models that help improve business performance.
+I'm an aspiring data scientist who has been practicing data science skills since early 2020. My main focus is to create end-to-end data solutions for business problems through collecting, processing, analysing data and through implementing machine learning models that help improve business performance.
 
 Tools and softwares:
 * **Data Collection (SQL, MySQL, Postgres)**: :star: :star:
