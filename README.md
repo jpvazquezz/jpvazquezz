@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 Welcome to my data science projects portfolio!
-Here you will be able to check out some of my data science projects!
+Here you will be able to check out some of data science projects I've made!
 The projects' main goal is to demonstrate my habilities to solve real business problems with Data Science.
 
 # Data Science Skills
