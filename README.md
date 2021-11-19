@@ -34,7 +34,7 @@ In this [project](https://github.com/jpvazquezz/sales_prediction_rossmann), I cr
 The sales prediction per store can be easily access by Rossmann CFO through a Telegram bot. To access the Telegram bot, click [here](https://t.me/rossamann_salesprediction_bot).
 
 # On-going Projects
-## Banking Market Strategy - Clustering
+## Banking Marketing Strategy - Clustering
 ![](https://i1.wp.com/thetotalentrepreneurs.com/wp-content/uploads/2021/07/image001.png?resize=640%2C360&ssl=1)
 
-In this project, the main goal is to create a data solution through clusterin, designed to create a customer segmentation that will orientate the banking marketing strategy.  
+In this project, the main goal is to create a data solution through clustering, designed to create a customer segmentation that will orientate the banking marketing strategy.  
