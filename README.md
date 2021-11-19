@@ -31,7 +31,8 @@ The model had a 0.905 F1-Score and can display how much revenue TopBank could sa
 ![](https://camo.githubusercontent.com/84eb49a4951c798927afa2632be66644947e115352eca2cc8d0a474d838e4cf1/68747470733a2f2f7777772e6378746f6461792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f53616c65732d466f726563617374696e672d31323830783732302e6a7067)
 
 In this [project](https://github.com/jpvazquezz/sales_prediction_rossmann), I created a XGBoost model that predicts the sales for the next six weeks. The sales forescating served as parameter to the budget designation for the stores' infraestructure renovation. 
-The sales prediction per store can be easily access by Rossmann CFO through a Telegram bot. To access the Telegram bot, click [here](https://t.me/rossamann_salesprediction_bot).
+
+The model had a 763.11 MAE and the sales prediction per store can be easily access by Rossmann CFO through a Telegram bot. To access the Telegram bot, click [here](https://t.me/rossamann_salesprediction_bot).
 
 # On-going Projects
 ## Banking Marketing Strategy - Clustering
