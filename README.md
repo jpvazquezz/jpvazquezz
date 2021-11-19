@@ -35,6 +35,6 @@ The sales prediction per store can be easily access by Rossmann CFO through a Te
 
 # On-going Projects
 ## Banking Marketing Strategy - Clustering
-![](https://i1.wp.com/thetotalentrepreneurs.com/wp-content/uploads/2021/07/image001.png?resize=640%2C360&ssl=1)
+![](https://cdn.datafloq.com/cache/blog_pictures/878x531/customer_segment.jpg)
 
 In this project, the main goal is to create a data solution through clustering, designed to create a customer segmentation that will orientate the banking marketing strategy.  
