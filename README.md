@@ -35,7 +35,7 @@ In this [project](https://github.com/jpvazquezz/sales_prediction_rossmann), I cr
 The model had a 763.11 MAE and the sales prediction per store can be easily access by Rossmann CFO through a Telegram bot. To access the Telegram bot, click [here](https://t.me/rossamann_salesprediction_bot).
 
 # On-going Projects
-## Banking Marketing Strategy - Clustering
+## [Banking Marketing Strategy - Clustering](https://github.com/jpvazquezz/bank_marketing_clustering)
 ![](https://cdn.datafloq.com/cache/blog_pictures/878x531/customer_segment.jpg)
 
-In this project, the main goal is to create a data solution through clustering, designed to create a customer segmentation that will orientate the banking marketing strategy.  
+In this [project](https://github.com/jpvazquezz/bank_marketing_clustering), the main goal is to create a data solution through clustering, designed to create a customer segmentation that will orientate the banking marketing strategy.  
