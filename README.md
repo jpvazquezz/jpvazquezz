@@ -20,8 +20,8 @@ Tools and softwares:
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://jpvazquez.medium.com/)
 [<img alt="Microsoft Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](jpvazquezz@hotmail.com)
 
-# [ata Science Projects](https://github.com/jpvazquezz/churn-prediction-topbank))
-## Churn Prediction Probability - TopBank
+# Data Science Projects
+## [Churn Prediction Probability - TopBank](https://github.com/jpvazquezz/churn-prediction-topbank)
 ![](https://www.milldesk.com.br/wp-content/uploads/2019/09/customer-churn-milldesk-1024x513.jpeg)
 In this [project](https://github.com/jpvazquezz/churn-prediction-topbank), I created a XGBoost model that predicted the TopBank customers' probability to churn and also formulate a action plan to tackle the churning problem based on giving customers a gift card in accordance to their churn probability and the maximization of customers' ROI. In addition to the financial return, the model was created using Dash and deployed in production with Heroku.
 
