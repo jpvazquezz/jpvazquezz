@@ -39,4 +39,4 @@ The model had a 763.11 MAE and the sales prediction per store can be easily acce
 ![](https://cdn.datafloq.com/cache/blog_pictures/878x531/customer_segment.jpg)
 
 In this [project](https://github.com/jpvazquezz/bank_marketing_clustering), the main goal is to create a data solution through clustering, designed to create a customer segmentation that will orientate the banking marketing strategy.  
-]
+
