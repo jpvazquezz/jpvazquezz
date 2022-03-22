@@ -34,6 +34,12 @@ In this [project](https://github.com/jpvazquezz/sales_prediction_rossmann), I cr
 
 The model had a 763.11 MAE and the sales prediction per store can be easily access by Rossmann CFO through a Telegram bot. To access the Telegram bot, click [here](https://t.me/rossamann_salesprediction_bot).
 
+## [Stock Rentability Prediction - Alpha Funding](https://github.com/jpvazquezz/alpha_funding)
+![](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+In this [project](https://github.com/jpvazquezz/alpha_funding), I created XGBoost models capable to predict 5 assets (Dollar, Bova11, Smal11, Bitcoin, Ether) rentability, and used Monte Carlo Simulation to select the best optimized portfolio.
+
+In a case where the client intends to invest 1,000,000, using the rentability prediction of each asset's model, together with the optimization of the Monte Carlo Simulation portfolio, the client can expect to have a balance amount of 1,359,114.8 (35,89% return), so that the worst case scenario is where the balance is 1,116,539.8 while the best case scenario is a balance of BRL 1,601,689.8 (+- 17,78% volatility).
+
 # On-going Projects
 ## [Banking Marketing Strategy - Clustering](https://github.com/jpvazquezz/bank_marketing_clustering)
 ![](https://cdn.datafloq.com/cache/blog_pictures/878x531/customer_segment.jpg)
